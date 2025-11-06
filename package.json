@@ -1,0 +1,8 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "Merge discontinuous time ranges within a threshold",
+  "main": "mergeTimeRanges.js",
+  "author": "Gaurang",
+  "license": "ISC"
+}
